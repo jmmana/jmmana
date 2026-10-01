@@ -13,7 +13,6 @@
   <a href="https://linkedin.com/in/jmmana"><img src="https://img.shields.io/badge/LinkedIn-30k%2B%20followers-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4=&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://juancastillo.bio"><img src="https://img.shields.io/badge/juancastillo.bio-portfolio-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:jmmana@gmail.com"><img src="https://img.shields.io/badge/Email-jmmana%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://pypi.org/project/appt-agent/"><img src="https://img.shields.io/pypi/v/appt-agent?style=for-the-badge&logo=pypi&logoColor=white&label=appt-agent&color=3775A9" alt="PyPI" /></a>
 </p>
 
 <p align="center">
@@ -27,17 +26,20 @@
 ```csharp
 public sealed record Developer
 {
-    public string   Name      => "Juan Manuel Castillo Pinto";
-    public string   Based     => "Medellín, Colombia";
-    public string   Company   => "WarlockCode";
-    public string[] Roles     => ["AI Architect", "UiPath Solution Architect", "Backend .NET", "SQL Server Expert"];
-    public int      Years     => 20;   // shipping production code since 2003
-    public int      Robots    => 50;   // RPA bots running in production
-    public string   Studying  => "MSc in Artificial Intelligence @ Universidad de La Salle (Nov 2026)";
-    public string[] Certs     => ["SAP Certified Development Associate: ABAP", "Microsoft Certified Professional", "UiPath Academy: Developer, Agentic, Architect"];
-    public string[] Sectors   => ["Banking", "Insurance", "Health", "Glass & Steel", "Logistics", "Aviation"];
-    public string   Languages => "Español (native) · English";
-    public string   Motto     => "I know the fundamentals cold. AI makes me faster.";
+    string   Name    = "Juan Manuel Castillo Pinto";
+    string   Based   = "Medellín, Colombia 🇨🇴";
+    string   Company = "WarlockCode";
+    string[] Roles   = ["AI Architect", "UiPath Solution Architect",
+                        "Backend C# / .NET", "SQL Server Expert"];
+    int      Years   = 20;  // shipping production code since 2003
+    int      Robots  = 50;  // RPA bots running in production
+    string   Studying= "MSc in Artificial Intelligence, U. de La Salle (2026)";
+    string[] Certs   = ["SAP Certified Development Associate: ABAP",
+                        "Microsoft Certified Professional",
+                        "UiPath Academy: Developer, Agentic, Architect"];
+    string[] Sectors = ["Banking", "Insurance", "Health", "Glass & Steel",
+                        "Logistics", "Aviation"];
+    string   Motto   = "I know the fundamentals cold. AI makes me faster.";
 }
 ```
 
