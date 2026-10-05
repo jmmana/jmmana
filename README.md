@@ -5,12 +5,12 @@
 
 <p align="center">
   <a href="https://juancastillo.bio">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=760&lines=I+automate+what+others+do+manually.;UiPath+Architect+%C2%B7+50%2B+robots+in+production;C%23+%2F+.NET+%C2%B7+SQL+Server+since+version+7.0;Private+AI%3A+Ollama%2C+fine-tuning%2C+on-prem+agents;MSc+in+Artificial+Intelligence+%C2%B7+class+of+2026" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=760&lines=I+automate+what+others+do+manually.;UiPath+Architect+%C2%B7+50%2B+robots+in+production;C%23+%2F+.NET+%C2%B7+SQL+Server+since+version+7.0;Private+AI%3A+Ollama%2C+fine-tuning%2C+on-prem+agents;Building+Agent+Viewer+%C2%B7+Watch+your+AI+agents+work" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jmmana"><img src="https://img.shields.io/badge/LinkedIn-30k%2B%20followers-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4=&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/jmmana"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4=&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://juancastillo.bio"><img src="https://img.shields.io/badge/juancastillo.bio-portfolio-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:jmmana@gmail.com"><img src="https://img.shields.io/badge/Email-jmmana%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -21,29 +21,22 @@
 
 ---
 
-## `> whoami`
+## About me
 
-```csharp
-public sealed record Developer
-{
-    string   Name    = "Juan Manuel Castillo Pinto";
-    string   Based   = "Medellín, Colombia 🇨🇴";
-    string   Company = "WarlockCode";
-    string[] Roles   = ["AI Architect", "UiPath Solution Architect",
-                        "Backend C# / .NET", "SQL Server Expert"];
-    int      Years   = 20;  // shipping production code since 2003
-    int      Robots  = 50;  // RPA bots running in production
-    string   Studying= "MSc in Artificial Intelligence, U. de La Salle (2026)";
-    string[] Certs   = ["SAP Certified Development Associate: ABAP",
-                        "Microsoft Certified Professional",
-                        "UiPath Academy: Developer, Agentic, Architect"];
-    string[] Sectors = ["Banking", "Insurance", "Health", "Glass & Steel",
-                        "Logistics", "Aviation"];
-    string   Motto   = "I know the fundamentals cold. AI makes me faster.";
-}
-```
+I'm **Juan Manuel Castillo Pinto**, an Informatics Engineer and **AI / UiPath Solution Architect** based in Colombia. At **WarlockCode**, I design systems that bring together intelligent automation, backend engineering and data.
 
-I build automation and AI that **actually reaches production**: robots that reconcile thousands of bank transactions a day, pipelines that read invoices nobody wants to type, and LLM agents that answer business questions **without client data ever leaving their network**.
+My work spans **UiPath, C# / .NET, SQL Server and Python**, from bank reconciliation and document processing to private AI deployments and computer vision research. I'm pursuing an **MSc in Artificial Intelligence at Universidad de La Salle**, with completion planned for 2026.
+
+I build automation that reaches production: robots that reconcile bank transactions, pipelines that extract invoice data, and AI systems designed to work within a client's network.
+
+| Focus | What I work on |
+|---|---|
+| **AI architecture** | Agent systems, private LLM deployment, retrieval, fine-tuning and evaluation. |
+| **Intelligent automation** | UiPath architecture, Document Understanding, reusable workflows and governance. |
+| **Backend and data** | C# / .NET services, APIs, SQL Server performance and data pipelines. |
+| **Applied research** | Computer vision, bone-age assessment and reproducible AI experiments. |
+
+**Credentials:** Microsoft Certified Professional · SAP Certified Development Associate: ABAP · UiPath Academy training in development, agentic automation and architecture.
 
 <table>
   <tr>
@@ -56,9 +49,25 @@ I build automation and AI that **actually reaches production**: robots that reco
 
 ---
 
+## Featured project · Agent Viewer
+
+<p align="center">
+  <a href="https://github.com/jmmana/Agent-Viewer">
+    <img src="https://raw.githubusercontent.com/jmmana/Agent-Viewer/main/docs/assets/agent-viewer-banner.svg" width="100%" alt="Agent Viewer — Watch your AI agents work." />
+  </a>
+</p>
+
+**An animated virtual office for understanding AI agent collaboration.** A director, team leaders and analysts represent tasks, conversations, meetings and handoffs, alongside token and cost visibility.
+
+I'm building it with the goal of making it **free, downloadable and open source**. The repository currently contains the project presentation and visual previews; application source, integrations and releases are still to come.
+
+[Explore Agent Viewer](https://github.com/jmmana/Agent-Viewer) · [Share an idea](https://github.com/jmmana/Agent-Viewer/issues/new) · [Follow the project](https://github.com/jmmana/Agent-Viewer/stargazers)
+
+---
+
 ## 🧠 Tech stack
 
-<details open>
+<details>
 <summary><b>🤖 AI, LLMs & Machine Learning</b></summary>
 <br/>
 
@@ -80,7 +89,7 @@ I build automation and AI that **actually reaches production**: robots that reco
 
 </details>
 
-<details open>
+<details>
 <summary><b>⚙️ RPA & Intelligent Automation</b></summary>
 <br/>
 
@@ -97,7 +106,7 @@ I build automation and AI that **actually reaches production**: robots that reco
 
 </details>
 
-<details open>
+<details>
 <summary><b>💻 Backend, Web & Mobile</b></summary>
 <br/>
 
@@ -112,7 +121,7 @@ I build automation and AI that **actually reaches production**: robots that reco
 
 </details>
 
-<details open>
+<details>
 <summary><b>🗄️ Data, SQL & BI</b></summary>
 <br/>
 
@@ -132,7 +141,7 @@ I build automation and AI that **actually reaches production**: robots that reco
 
 </details>
 
-<details open>
+<details>
 <summary><b>☁️ Cloud, DevOps & Self-hosting</b></summary>
 <br/>
 
@@ -161,6 +170,8 @@ I build automation and AI that **actually reaches production**: robots that reco
 <sub>Private / client work. Ask me for a demo.</sub>
 
 ## 🔬 Open source & research
+
+Selected projects in computer vision, agents and applied AI. Explore each repository for its current implementation and documentation.
 
 <p align="center">
   <a href="https://github.com/jmmana/BoneAgeTW2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jmmana&repo=BoneAgeTW2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&description_lines_count=2" alt="BoneAgeTW2" /></a>
