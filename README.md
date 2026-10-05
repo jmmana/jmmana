@@ -59,7 +59,7 @@ I build automation that reaches production: robots that reconcile bank transacti
 
 **An animated virtual office for understanding AI agent collaboration.** A director, team leaders and analysts represent tasks, conversations, meetings and handoffs, alongside token and cost visibility.
 
-I'm building it with the goal of making it **free, downloadable and open source**. The repository currently contains the project presentation and visual previews; application source, integrations and releases are still to come.
+I'm building it with the goal of making it **free, downloadable and open source**. The React / TypeScript application and animated Canvas office are available to run locally, with a scripted collaboration simulation, dialogue cards and usage counters. Real agent adapters and packaged releases are the next steps.
 
 [Explore Agent Viewer](https://github.com/jmmana/Agent-Viewer) · [Share an idea](https://github.com/jmmana/Agent-Viewer/issues/new) · [Follow the project](https://github.com/jmmana/Agent-Viewer/stargazers)
 
