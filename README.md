@@ -49,6 +49,14 @@ I build automation that reaches production: robots that reconcile bank transacti
 
 ---
 
+## Research portfolio & doctoral preparation
+
+I am preparing for full-time doctoral study in Data Science and Artificial Intelligence beginning in **Fall 2027**. My research interests connect trustworthy AI for data systems, medical computer vision and reproducible evaluation.
+
+[Explore my academic research portfolio](https://github.com/jmmana/research-portfolio) · [Read my research statement](https://github.com/jmmana/research-portfolio/blob/main/research/RESEARCH_STATEMENT.md)
+
+---
+
 ## Featured project · Agent Viewer
 
 <p align="center">
